@@ -5,6 +5,11 @@ function App() {
   return (
     <div className="App">
       <h1>Lets build tinder clone</h1>
+      {/*Header */}
+      {/*Tinder cards  */}
+      {/* Buttons below cards  */}
+      {/* Chat Screen  */}
+      {/* Indivisual Chat Screen  */}
     </div>
   );
 }
