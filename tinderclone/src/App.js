@@ -1,11 +1,12 @@
 import React from "react";
 import "./App.css";
+import Header from "./Header";
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <h1>Lets build tinder clone</h1>
-      {/*Header */}
+      <Header />
       {/*Tinder cards  */}
       {/* Buttons below cards  */}
       {/* Chat Screen  */}
